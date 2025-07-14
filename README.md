@@ -1,6 +1,5 @@
 # 📚 Smart Cloud-Based Book Tracking System
 
-### ✨ INT 330 – Managing Cloud Solutions | CA 2 Project
 
 **Project Title:** *Helping Readers Stay on Track with Their Reading Goals*
 
